@@ -5,7 +5,7 @@ const Education = () => {
   return (
     <div id="edu" className="text-white md-flex overflow-hidden items-center md:flex-wrap md:justify-center mx-0 md:mx-20 bg-opacity-30 rounded-lg p-12 min-h-screen">
       <h1 className="text-3xl md:text-4xl font-bold mb-10 text-center">
-        ACADMIC DETAILS
+        ACADEMIC DETAILS
       </h1>
       <div className="md:flex flex-wrap flex-col md:flex-row items-center mt-10 justify-between">
         <div className="w-full md:w-1/2 lg:w-150 p-4 pr-6">
