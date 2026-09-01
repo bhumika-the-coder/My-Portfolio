@@ -9,6 +9,8 @@ This is my personal portfolio where I showcase my skills, education and my proje
 React.js, JavaScript, Tailwind CSS, Vite, EmailJS
 
 ### Run Locally
-npm install
-npm run dev
+-npm install
+-npm run dev
 
+### Live link
+https://bhumikasportfolio.netlify.app/
