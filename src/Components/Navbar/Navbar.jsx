@@ -29,13 +29,13 @@ const Navbar = () => {
     </li>
 
     <li>
-      <a href="#education" onClick={() => openMenu(false)}>
+      <a href="#edu" onClick={() => openMenu(false)}>
         Education
       </a>
     </li>
 
     <li>
-      <a href="#projects" onClick={() => openMenu(false)}>
+      <a href="#project" onClick={() => openMenu(false)}>
         Projects
       </a>
     </li>
